@@ -197,4 +197,4 @@ This repository serves as the official landing page for Héraldique. The softwar
 **Get the most recent version of Héraldique today!**
 
 ---
-**Last updated:** 2026-11-06 23:50:55 UTC
+**Last updated:** 2026-11-07 03:26:12 UTC
